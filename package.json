@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "npx vite build",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -16,6 +16,6 @@
     "vite": "^5.0.0"
   },
   "engines": {
-    "node": ">=18"
+    "node": "20.x"
   }
 }
