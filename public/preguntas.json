@@ -1,0 +1,105 @@
+[
+  { "letra": "A", "tipo": "comienza", "pregunta": "Comienza con A: Evento no deseado en el trabajo.", "respuesta": "Accidente" },
+  { "letra": "A", "tipo": "contiene", "pregunta": "Contiene la A: Elemento de protección que se utiliza para evitar caídas desde altura.", "respuesta": "Arnés" },
+  { "letra": "A", "tipo": "comienza", "pregunta": "Comienza con A: Acción de eliminar o reducir peligros antes de ejecutar una tarea.", "respuesta": "Análisis" },
+
+  { "letra": "B", "tipo": "comienza", "pregunta": "Comienza con B: Libro donde se anotan las observaciones de seguridad diarias.", "respuesta": "Bitácora" },
+  { "letra": "B", "tipo": "contiene", "pregunta": "Contiene la B: Sustancia que puede causar daño si se inhala o toca.", "respuesta": "Combustible" },
+  { "letra": "B", "tipo": "comienza", "pregunta": "Comienza con B: Parte del cuerpo que debe protegerse con casco o gorro de seguridad.", "respuesta": "Cabeza" },
+
+  { "letra": "C", "tipo": "comienza", "pregunta": "Comienza con C: Documento que certifica la aprobación de un curso de seguridad.", "respuesta": "Certificado" },
+  { "letra": "C", "tipo": "contiene", "pregunta": "Contiene la C: Persona responsable de supervisar el cumplimiento de las normas de seguridad.", "respuesta": "Encargado" },
+  { "letra": "C", "tipo": "comienza", "pregunta": "Comienza con C: Elemento que se usa para apagar incendios de pequeño tamaño.", "respuesta": "Extintor" },
+
+  { "letra": "D", "tipo": "comienza", "pregunta": "Comienza con D: Acción de instruir o enseñar sobre seguridad a los trabajadores.", "respuesta": "Difusión" },
+  { "letra": "D", "tipo": "contiene", "pregunta": "Contiene la D: Lugar donde se reúne el personal en caso de emergencia.", "respuesta": "Punto de encuentro" },
+  { "letra": "D", "tipo": "comienza", "pregunta": "Comienza con D: Documento que indica los riesgos y medidas preventivas antes de trabajar.", "respuesta": "Documento preventivo" },
+
+  { "letra": "E", "tipo": "comienza", "pregunta": "Comienza con E: Equipo que protege al trabajador frente a riesgos laborales.", "respuesta": "EPP" },
+  { "letra": "E", "tipo": "contiene", "pregunta": "Contiene la E: Persona capacitada para responder ante emergencias.", "respuesta": "Emergencista" },
+  { "letra": "E", "tipo": "comienza", "pregunta": "Comienza con E: Situación imprevista que requiere una acción inmediata.", "respuesta": "Emergencia" },
+
+  { "letra": "F", "tipo": "comienza", "pregunta": "Comienza con F: Elemento que se debe controlar para evitar incendios.", "respuesta": "Fuego" },
+  { "letra": "F", "tipo": "contiene", "pregunta": "Contiene la F: Documento que certifica la competencia de un trabajador.", "respuesta": "Certificación" },
+  { "letra": "F", "tipo": "comienza", "pregunta": "Comienza con F: Elemento que se utiliza como señal de advertencia visual en zonas de riesgo.", "respuesta": "Faja" },
+
+  { "letra": "G", "tipo": "comienza", "pregunta": "Comienza con G: Sustancia utilizada en la cocina o calefacción que puede causar explosión.", "respuesta": "Gas" },
+  { "letra": "G", "tipo": "contiene", "pregunta": "Contiene la G: Lugar donde se guardan materiales o herramientas.", "respuesta": "Bodega" },
+  { "letra": "G", "tipo": "comienza", "pregunta": "Comienza con G: Documento que autoriza una tarea peligrosa.", "respuesta": "Guía de permiso" },
+
+  { "letra": "H", "tipo": "comienza", "pregunta": "Comienza con H: Riesgo que puede causar daño físico o enfermedad.", "respuesta": "Hazard" },
+  { "letra": "H", "tipo": "contiene", "pregunta": "Contiene la H: Material que puede producir daño si se inhala o manipula sin protección.", "respuesta": "Inhalación" },
+  { "letra": "H", "tipo": "comienza", "pregunta": "Comienza con H: Área o lugar de trabajo donde se desarrolla una tarea específica.", "respuesta": "Habitáculo" },
+
+  { "letra": "I", "tipo": "comienza", "pregunta": "Comienza con I: Documento que detalla las lesiones de un trabajador tras un accidente.", "respuesta": "Informe" },
+  { "letra": "I", "tipo": "contiene", "pregunta": "Contiene la I: Persona que orienta y supervisa la seguridad en la obra.", "respuesta": "Prevencionista" },
+  { "letra": "I", "tipo": "comienza", "pregunta": "Comienza con I: Conjunto de medidas que buscan evitar accidentes.", "respuesta": "Inspección" },
+
+  { "letra": "J", "tipo": "comienza", "pregunta": "Comienza con J: Elemento que se usa para sostener cargas o estructuras.", "respuesta": "Jack" },
+  { "letra": "J", "tipo": "contiene", "pregunta": "Contiene la J: Persona que lidera o coordina un grupo de trabajo.", "respuesta": "Jefe" },
+  { "letra": "J", "tipo": "comienza", "pregunta": "Comienza con J: Zona donde se realiza el trabajo o actividad.", "respuesta": "Jornada" },
+
+  { "letra": "K", "tipo": "comienza", "pregunta": "Comienza con K: Medida de energía utilizada en electricidad.", "respuesta": "Kilovatio" },
+  { "letra": "K", "tipo": "contiene", "pregunta": "Contiene la K: Unidad usada para medir fuerza o resistencia de materiales.", "respuesta": "Kilogramo" },
+  { "letra": "K", "tipo": "comienza", "pregunta": "Comienza con K: Sistema de etiquetado internacional de productos químicos peligrosos.", "respuesta": "Kemler" },
+
+  { "letra": "L", "tipo": "comienza", "pregunta": "Comienza con L: Documento que entrega lineamientos de seguridad.", "respuesta": "Ley" },
+  { "letra": "L", "tipo": "contiene", "pregunta": "Contiene la L: Persona que lidera y orienta al equipo en tareas seguras.", "respuesta": "Líder" },
+  { "letra": "L", "tipo": "comienza", "pregunta": "Comienza con L: Lugar de trabajo o entorno donde se desarrolla una actividad.", "respuesta": "Laboral" },
+
+  { "letra": "M", "tipo": "comienza", "pregunta": "Comienza con M: Acción de observar y evaluar condiciones de trabajo.", "respuesta": "Monitoreo" },
+  { "letra": "M", "tipo": "contiene", "pregunta": "Contiene la M: Elemento que sirve para advertir o prevenir un peligro.", "respuesta": "Señalamiento" },
+  { "letra": "M", "tipo": "comienza", "pregunta": "Comienza con M: Plan que establece cómo actuar ante una emergencia.", "respuesta": "Manual" },
+
+  { "letra": "N", "tipo": "comienza", "pregunta": "Comienza con N: Documento que define los límites o exigencias de seguridad.", "respuesta": "Norma" },
+  { "letra": "N", "tipo": "contiene", "pregunta": "Contiene la N: ¿Qué le pasa a Lupita?", "respuesta": "No se" },
+  { "letra": "N", "tipo": "comienza", "pregunta": "Comienza con N: Acción de comunicar un incidente a la autoridad.", "respuesta": "Notificación" },
+
+  { "letra": "O", "tipo": "comienza", "pregunta": "Comienza con O: Documento que establece la forma de realizar un trabajo seguro.", "respuesta": "Orden" },
+  { "letra": "O", "tipo": "contiene", "pregunta": "Contiene la O: Persona responsable de controlar y dirigir una tarea.", "respuesta": "Operador" },
+  { "letra": "O", "tipo": "comienza", "pregunta": "Comienza con O: Actividad que implica riesgo eléctrico o mecánico.", "respuesta": "Operación" },
+
+  { "letra": "P", "tipo": "comienza", "pregunta": "Comienza con P: Persona responsable de velar por la seguridad en una empresa.", "respuesta": "Prevencionista" },
+  { "letra": "P", "tipo": "contiene", "pregunta": "Contiene la P: Medida de control que reduce la exposición a riesgos.", "respuesta": "Protección" },
+  { "letra": "P", "tipo": "comienza", "pregunta": "Comienza con P: Sistema de detección de fuego o humo.", "respuesta": "Protección" },
+
+  { "letra": "Q", "tipo": "comienza", "pregunta": "Comienza con Q: Sustancia peligrosa usada en limpieza o procesos industriales.", "respuesta": "Químico" },
+  { "letra": "Q", "tipo": "contiene", "pregunta": "Contiene la Q: Documento que verifica la calidad de un procedimiento.", "respuesta": "Chequeo" },
+  { "letra": "Q", "tipo": "comienza", "pregunta": "Comienza con Q: Acción de apagar un incendio o fuego.", "respuesta": "Quemar" },
+
+  { "letra": "R", "tipo": "comienza", "pregunta": "Comienza con R: Documento que registra un accidente laboral.", "respuesta": "Reporte" },
+  { "letra": "R", "tipo": "contiene", "pregunta": "Contiene la R: Acción de volver a realizar una tarea para corregir fallas.", "respuesta": "Reproceso" },
+  { "letra": "R", "tipo": "comienza", "pregunta": "Comienza con R: Actividad de identificar peligros en el trabajo.", "respuesta": "Reconocimiento" },
+
+  { "letra": "S", "tipo": "comienza", "pregunta": "Comienza con S: Medida adoptada para evitar un accidente o daño.", "respuesta": "Seguridad" },
+  { "letra": "S", "tipo": "contiene", "pregunta": "Contiene la S: Documento que regula las condiciones laborales.", "respuesta": "Contrato" },
+  { "letra": "S", "tipo": "comienza", "pregunta": "Comienza con S: Sistema que alerta sobre emergencias.", "respuesta": "Sirena" },
+
+  { "letra": "T", "tipo": "comienza", "pregunta": "Comienza con T: Documento que autoriza el inicio de un trabajo.", "respuesta": "Trabajo" },
+  { "letra": "T", "tipo": "contiene", "pregunta": "Contiene la T: Acción de preparar un trabajador para un riesgo específico.", "respuesta": "Capacitación" },
+  { "letra": "T", "tipo": "comienza", "pregunta": "Comienza con T: Persona responsable de ejecutar tareas seguras.", "respuesta": "Trabajador" },
+
+  { "letra": "U", "tipo": "comienza", "pregunta": "Comienza con U: Persona que usa equipos o herramientas.", "respuesta": "Usuario" },
+  { "letra": "U", "tipo": "contiene", "pregunta": "Contiene la U: Acción de aplicar conocimientos de seguridad en el trabajo.", "respuesta": "Cultura" },
+  { "letra": "U", "tipo": "comienza", "pregunta": "Comienza con U: Zona donde se utilizan productos químicos.", "respuesta": "Ubicación" },
+
+  { "letra": "V", "tipo": "comienza", "pregunta": "Comienza con V: Acción de observar y registrar el cumplimiento de normas.", "respuesta": "Verificación" },
+  { "letra": "V", "tipo": "contiene", "pregunta": "Contiene la V: Documento que autoriza a conducir vehículos en faena.", "respuesta": "Licencia" },
+  { "letra": "V", "tipo": "comienza", "pregunta": "Comienza con V: Persona que realiza control y fiscalización de trabajos.", "respuesta": "Vigilante" },
+
+  { "letra": "W", "tipo": "comienza", "pregunta": "Comienza con W: Elemento de seguridad usado en redes o software industrial.", "respuesta": "WiFi" },
+  { "letra": "W", "tipo": "contiene", "pregunta": "Contiene la W: Documento de control del sistema informático.", "respuesta": "Workflow" },
+  { "letra": "W", "tipo": "comienza", "pregunta": "Comienza con W: Sistema para reportar incidentes en línea.", "respuesta": "Web" },
+
+  { "letra": "X", "tipo": "comienza", "pregunta": "Comienza con X: Tipo de radiación usada para inspeccionar materiales.", "respuesta": "Rayos X" },
+  { "letra": "X", "tipo": "contiene", "pregunta": "Contiene la X: Señal o marca que indica peligro.", "respuesta": "Tóxico" },
+  { "letra": "X", "tipo": "comienza", "pregunta": "Comienza con X: Técnica de control visual mediante rayos.", "respuesta": "Xilografía" },
+
+  { "letra": "Y", "tipo": "comienza", "pregunta": "Comienza con Y: Elemento usado en soldaduras o electricidad.", "respuesta": "Yunque" },
+  { "letra": "Y", "tipo": "contiene", "pregunta": "Contiene la Y: Acción de mantener equilibrio emocional ante emergencias.", "respuesta": "Apoyo" },
+  { "letra": "Y", "tipo": "comienza", "pregunta": "Comienza con Y: Persona que realiza trabajo colaborativo.", "respuesta": "Yo" },
+
+  { "letra": "Z", "tipo": "comienza", "pregunta": "Comienza con Z: Área donde se debe usar protección especial.", "respuesta": "Zona" },
+  { "letra": "Z", "tipo": "contiene", "pregunta": "Contiene la Z: Elemento usado para delimitar sectores de trabajo.", "respuesta": "Señalización" },
+  { "letra": "Z", "tipo": "comienza", "pregunta": "Comienza con Z: Lugar que debe mantenerse libre de riesgos.", "respuesta": "Zona segura" }
+]

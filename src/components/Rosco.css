@@ -1,0 +1,73 @@
+.rosco-container {
+  position: relative;
+  background-color: #001f3f;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  color: white;
+}
+
+.rosco {
+  position: relative;
+  width: 550px;
+  height: 550px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rosco-letter {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  background-color: #004080;
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+
+.rosco-letter.active {
+  background-color: #ffcc00;
+  color: black;
+}
+
+.rosco-letter.correct {
+  background-color: #00cc66;
+}
+
+.rosco-letter.incorrect {
+  background-color: #cc0000;
+}
+
+.logo {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 120px;
+}
+
+.question-box {
+  position: absolute;
+  bottom: 80px;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 15px 25px;
+  border-radius: 10px;
+}
+
+.camera-view {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  z-index: 5;
+}

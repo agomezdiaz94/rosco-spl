@@ -1,0 +1,114 @@
+body {
+  background: radial-gradient(circle at center, #101820, #06080a);
+  color: white;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  margin: 0;
+  overflow: hidden;
+}
+
+.rosco-container {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+}
+
+.logo-spl {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 100px;
+  z-index: 10;
+}
+
+.camera-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  overflow: hidden;
+  width: 200px;
+  height: 200px;
+  z-index: 1;
+}
+
+.camera-view {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.rosco {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+}
+
+.letra {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background: #1e90ff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  color: white;
+  transition: 0.3s;
+}
+
+.letra.activa {
+  background: #00ff88;
+  box-shadow: 0 0 15px #00ff88;
+}
+
+/* Posiciones circulares de las letras */
+.letra-0 { transform: translate(230px, 0px) rotate(0deg); }
+.letra-1 { transform: translate(300px, 50px); }
+.letra-2 { transform: translate(340px, 120px); }
+/* Puedes seguir con más posiciones o generarlas dinámicamente */
+
+.panel {
+  position: absolute;
+  bottom: 40px;
+  width: 100%;
+}
+
+.btn-iniciar {
+  background: #00ff88;
+  color: #000;
+  border: none;
+  padding: 15px 40px;
+  font-size: 18px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.pregunta-panel input {
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 8px;
+  border: none;
+}
+
+.pregunta-panel button {
+  margin-left: 10px;
+  padding: 10px 20px;
+  background: #00ff88;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.resultado {
+  background: rgba(0, 0, 0, 0.7);
+  padding: 20px;
+  border-radius: 15px;
+  display: inline-block;
+}

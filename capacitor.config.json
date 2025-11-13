@@ -1,0 +1,6 @@
+{
+  "appId": "com.rosco.spl",
+  "appName": "Rosco SPL",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

@@ -1,0 +1,57 @@
+.app-container {
+  text-align: center;
+  background: linear-gradient(180deg, #f7f7f7, #e0f7fa);
+  min-height: 100vh;
+  font-family: "Poppins", sans-serif;
+  padding-top: 20px;
+}
+
+.start-btn {
+  background: #2196f3;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.start-btn:hover {
+  background: #1976d2;
+}
+
+.pregunta-box {
+  background: white;
+  width: 350px;
+  margin: 20px auto;
+  padding: 15px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+input {
+  width: 90%;
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+.botones button {
+  margin: 5px;
+  padding: 8px 15px;
+  border-radius: 6px;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.botones button:first-child {
+  background: #4caf50;
+  color: white;
+}
+
+.botones button:last-child {
+  background: #ff9800;
+  color: white;
+}

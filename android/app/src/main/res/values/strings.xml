@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Rosco SPL</string>
+    <string name="title_activity_main">Rosco SPL</string>
+    <string name="package_name">com.rosco.spl</string>
+    <string name="custom_url_scheme">com.rosco.spl</string>
+</resources>
