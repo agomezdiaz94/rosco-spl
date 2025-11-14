@@ -1,13 +1,12 @@
 import React from "react";
-import Rosco from "./Rosco";
+import Rosco from "./components/Rosco";
 
 function App() {
   return (
-    <div className="app-container">
+    <div>
       <Rosco />
     </div>
   );
 }
 
 export default App;
-
