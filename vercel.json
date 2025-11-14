@@ -1,15 +1,14 @@
-save{
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
   "version": 2,
-  "builds": [
+  "framework": "vite",
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "outputDirectory": "dist",
+  "rewrites": [
     {
-      "src": "vite.config.js",
-      "use": "@vercel/static-build"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dist": "/index.html"
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ]
 }
